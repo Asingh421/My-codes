@@ -62,7 +62,7 @@ int main()
 //printf("%d",ed[0].start);
 
    //printf("Require edges and their edge weight are:\n");
-   printf("vertx  weight\n");
+   printf("vertex  weight\n");
    for(int i=0;i<n;i++)
    {
        printf("%d %d\n",i,d[i]);
